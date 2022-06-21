@@ -1,0 +1,2 @@
+# prepoznavanje-lica
+clarafai-api
